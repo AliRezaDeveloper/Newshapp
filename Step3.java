@@ -72,6 +72,7 @@ public class Step3 extends Fragment {
 
         btn_next.setTypeface(tf);
         Text_titr.setTypeface(tf);
+
         CB_ezafe.setTypeface(tf);
         RB_shekam.setTypeface(tf);
         RB_ran.setTypeface(tf);
